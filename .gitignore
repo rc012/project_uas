@@ -1,0 +1,25 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.gitignore
+.idea/.gitignore
+.idea/HappyPaws.iml
+.idea/compiler.xml
+.idea/jarRepositories.xml
+.idea/libraries/
+.idea/misc.xml
+.idea/vcs.xml
+HappyPaws.iml
+Screenshot Tampilan Program.pdf
+happypaws.sql
+img/
+libs/
+pom.xml
+src/
+target/
